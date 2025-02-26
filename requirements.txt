@@ -13,6 +13,6 @@ accelerate
 objaverse
 basicsr==1.4.2
 numpy==1.26.4
-pytorch-lightning
+pytorch-lightning==1.9.0
 open-clip-torch
 xatlas
