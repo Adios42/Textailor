@@ -78,9 +78,9 @@ In the appendix of the paper, TexTailor synthesizes textures for human meshes us
 #### Humans
 | **Item** | **Description** |**Texture** |
 |:-:|:---:|:----------:|
-| claudia | a woman wearing a white blouse with a ribbon detail, light beige pants, nude-tone heels, and neatly tied blonde hair |<img src="docs/GIF/claudia/claudia.gif" width="400" autoplay loop>|
-|  eric | a man, wearing  a black vest, black formal trousers, a black tie, a black belt, a white dress shirt, and dark formal shoes, with short neatly styled hair |<img src="docs/GIF/eric/eric.gif" width="400" autoplay loop>|
-| carla | a woman with dark skin tone, wearing a black blazer, a black top, gray pants with a gray tied belt, black heels, and having dark hair |<img src="docs/GIF/carla/carla.gif" width="400" autoplay loop>|
+| claudia | a woman wearing a white blouse with a ribbon detail, light beige pants, nude-tone heels, and neatly tied blonde hair |<img src="docs/GIF/claudia/claudia.gif" width="300" autoplay loop>|
+|  eric | a man, wearing  a black vest, black formal trousers, a black tie, a black belt, a white dress shirt, and dark formal shoes, with short neatly styled hair |<img src="docs/GIF/eric/eric.gif" width="300" autoplay loop>|
+| carla | a woman with dark skin tone, wearing a black blazer, a black top, gray pants with a gray tied belt, black heels, and having dark hair |<img src="docs/GIF/carla/carla.gif" width="300" autoplay loop>|
 
 
 ### 2. Try the Demo (Sanity check)
