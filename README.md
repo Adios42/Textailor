@@ -67,12 +67,6 @@ In the appendix of the paper, TexTailor synthesizes textures for human meshes us
 ### 1. Our results
 #### Objects
 <div align="center">
-<style>
-  table thead {
-    background-color: lightgray;
-    color: black;
-  }
-</style>
 
 | **Item** | **Description** |**Texture** |
 |:-:|:---:|:----------:|
