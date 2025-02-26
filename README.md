@@ -15,7 +15,7 @@ We present TexTailor, a novel method for generating consistent object textures f
 
 ## Setup
 
-The code is tested on Ubuntu 18.04.6 LTS with PyTorch 1.12.1 CUDA 11.3 installed. Please follow the following steps to install PyTorch first. To run our method, you should at least have a NVIDIA GPU with 24 GB RAM (NVIDIA GeForce TITAN RTX works for us).
+The code is tested on Ubuntu 18.04.6 LTS with PyTorch 2.1.0 CUDA 11.8 installed. Please follow the following steps to install PyTorch first. To run our method, you should at least have a NVIDIA GPU with 24 GB RAM (NVIDIA GeForce TITAN RTX works for us).
 
 ```shell
 # create and activate the conda environment
